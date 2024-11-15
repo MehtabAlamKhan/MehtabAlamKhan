@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
 
 <!--
 **MehtabAlamKhan/MehtabAlamKhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 -->
 
 ### Languages Used:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MehtabAlamKhan&layout=compact&langs_count=10&hide=html,css)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jason5&layout=compact&langs_count=10&hide=html,css&theme=dark&bg_color=000000)
 
