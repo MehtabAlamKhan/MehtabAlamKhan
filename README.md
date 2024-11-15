@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 -->
 
 ### Languages Used:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MehtabAlamKhan&layout=compact&langs_count=10&hide=html,css&theme=dark&bg_color=000000)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MehtabAlamKhan&layout=compact&langs_count=10&hide=html,css&theme=dark&bg_color=242424)
 
